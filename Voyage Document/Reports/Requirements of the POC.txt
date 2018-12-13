@@ -1,0 +1,43 @@
+Qatar POC
+
+Questions-
+
+1. what was the flight number?
+2. what was the journey date?
+3. What were the origin and destination of the flight?
+4. what were the scheduled departure and arrival time?
+5. what were the actual departure and arrival time?
+6. Was there any delay in the journey? If yes, then what was the duration and what were the potential cause of those delay?
+7. how many passengers and crew members were present in the flight?
+8. what were the names of the crew members and what were there corresponding duties?
+9. Was there any incident during the journey? If yes, then describe
+
+
+Probable Incidents on flight:
+
+1. Argument among passengers
+2. Seating arrangements were not comfortable
+3. Flight was not clean
+4. Bad food quality
+5. Tarbulence
+6. Medical Emergency of passengers
+7. Flight Engine Down
+
+Probable Reasons for Flight Delay:
+
+1. Bad wether condition
+2. Runway Clarance
+3. Runway not suitable
+4. Navigation Problem
+5. Air traffic
+6. Service/maintenace issue
+
+Model aircrew-
+1. Mahesh Prabhu-- Captain
+2. Dileep K-- First Officer/Co-pilot
+3. Sourav-- Cabin Crew
+4. Anjali-- Cabin Crew
+5. Diji-- Cabin Crew
+6. Jitendra-- Cabin Crew
+7. Akash-- Flight Commander
+8. Avik-- flight Engineer
